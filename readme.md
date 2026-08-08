@@ -47,7 +47,7 @@ A privacy-focused AI Email Generator that runs completely on your local machine 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Local-AI-Email-Generator.git
+https://github.com/anonym0us-X/Local-Ai-email-generator
 ```
 
 ```bash
