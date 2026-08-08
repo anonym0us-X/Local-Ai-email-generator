@@ -35,35 +35,10 @@ A privacy-focused AI Email Generator that runs completely on your local machine 
 ### Frontend
 - HTML
 - CSS
-- JavaScript
 
 ### AI
 - Ollama
 - Qwen 3.5
-
----
-
-## 📂 Project Structure
-
-```
-Local-AI-Email-Generator/
-│
-├── backend/
-│   ├── main.py
-│   ├── requirements.txt
-│   └── ...
-│
-├── frontend/
-│   ├── index.html
-│   ├── style.css
-│   ├── script.js
-│   └── ...
-│
-├── screenshots/
-│
-├── README.md
-└── LICENSE
-```
 
 ---
 
@@ -103,7 +78,7 @@ https://ollama.com
 ollama pull qwen3.5:4b
 ```
 
-*(Replace the model name if you're using a different version.)*
+*Replace the model name if you're using a different version.*
 
 ---
 
@@ -189,13 +164,6 @@ Contributions are welcome!
 3. Commit your changes.
 4. Push to your branch.
 5. Open a Pull Request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ---
 
 ## 👨‍💻 Author
