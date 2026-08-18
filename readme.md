@@ -121,15 +121,6 @@ http://localhost:8000
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of the application here.
-
-```
-screenshots/home.png
-screenshots/generated-email.png
-```
-
 ---
 
 ## 🎯 Future Improvements
